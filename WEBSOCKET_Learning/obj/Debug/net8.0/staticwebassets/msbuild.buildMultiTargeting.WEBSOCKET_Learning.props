@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEBSOCKET_Learning.props" />
+</Project>
